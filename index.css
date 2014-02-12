@@ -1,0 +1,21 @@
+body {
+    background-image:url(http://p1.pichost.me/i/21/1437883.jpg);
+}
+h1 {
+    font-family:Helvetica;
+    font-size: 40px;
+    color:white;
+    font-variant:small-caps;
+    text-align:right;
+    background-color:grey;
+    padding:10px;
+}
+p {
+    color:white;
+    font-size: 20px;
+}
+h2 {
+    text-align:center;
+}
+span {
+    background-color:aqua;
