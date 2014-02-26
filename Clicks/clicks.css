@@ -1,8 +1,11 @@
+h1.page-title {
+    color:purple;
+    font-size:200px;
+}
 h1.clicked {
     color: darksalmon;
 }
 img.logo {
-    transition: 1s;
     position: absolute;
     left: 50%;
     top: 50%;
