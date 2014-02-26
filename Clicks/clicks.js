@@ -25,6 +25,9 @@ setInterval(function () {
         'top': y + r * Math.sin(theta)
 });
 theta = theta + vtheta;
+    if (theta >= Math.PI) {
+        vtheta = -vtheta;
+    }
     
     /*
     x = x + vx;
