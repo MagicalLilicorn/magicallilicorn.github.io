@@ -28,6 +28,9 @@ theta = theta + vtheta;
     if (theta >= Math.PI) {
         vtheta = -vtheta;
     }
+    if (theta = 0) {
+        vtheta = -vtheta;
+    }
     
     /*
     x = x + vx;
